@@ -1,7 +1,8 @@
+---
 layout: page
- title: “Green Lightsaber” 
- permalink: /green/
- ---
+title: "Green Lightsaber"
+permalink: /green/
+---
 💚 Your Kyber Crystal Resonates with Green
 The Consular
 Your answers suggest that your greatest strength lies in understanding. Green lightsaber wielders seek wisdom before action and are naturally drawn to learning, reflection, and seeing the bigger picture. Rather than rushing toward solutions, you prefer to understand the problem first.
