@@ -1,6 +1,8 @@
+<!--
 layout: page
-title: “Orange Lightsaber” 
+title: "Orange Lightsaber"
 permalink: /orange/
+-->
 🟠 Your Kyber Crystal Resonates with Orange
 The Maverick
 Your answers suggest that your strongest instinct is to question assumptions and seek new paths. Orange lightsaber wielders are often independent thinkers who are willing to challenge tradition when they believe there is a better way. Rather than following convention for its own sake, you prefer to understand why something works and aren’t afraid to experiment when it doesn’t.
