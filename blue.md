@@ -1,4 +1,4 @@
-html<!--
+<!--
 layout: page
 title: "Blue Lightsaber"
 permalink: /blue/
